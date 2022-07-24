@@ -75,7 +75,7 @@ console.log("test");*/
 console.log("test");
 console.log("test");
 console.log("test");*/
-console.log("here");
+console.log("hello");
 ```
 عند تشغيل الكود، ستجد المشغل لم يفسر إلّا السطر اﻵخير ﻷنه خارج التعليق، بالتالي سيطبع فقط ***hello***
 
